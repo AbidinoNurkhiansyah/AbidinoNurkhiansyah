@@ -24,12 +24,16 @@ Currently I’m expanding my skills in **Clean Architecture**, **ML integration*
 ---
 
 ## Github Statistic
-
+<p>
+  
 ### My Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default)
 
 ### My GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default)
+</p>
+
+
 
 ---
 
