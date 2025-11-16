@@ -24,23 +24,20 @@ Currently I’m expanding my skills in **Clean Architecture**, **ML integration*
 ---
 
 ## Github Statistic
-<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: flex-start;">
-
-  <!-- Card 1 -->
-  <div style="text-align: center;">
-    <p><strong>My Programming Languages</strong></p>
-    <img height="180" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default" />
-  </div>
-
-  <!-- Card 2 -->
-  <div style="text-align: center;">
-    <p><strong>My GitHub Statistics</strong></p>
-    <img height="180" 
-         src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <strong>My Programming Languages</strong><br><br>
+      <img height="180" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default" />
+    </td>
+    <td align="center">
+      <strong>My GitHub Statistics</strong><br><br>
+      <img height="180" 
+           src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default" />
+    </td>
+  </tr>
+</table>
 
 
 
