@@ -2,9 +2,11 @@ Hi everyone! 👋
 
 ## My name is Abidino Nurkhiansyah.
 
-I'm a Mobile Development Enthusiast focusing on Flutter.
+<p>
+  I'm a Mobile Development Enthusiast focusing on Flutter.
 I’ve worked on various mobile app projects involving REST API integration, Firebase services, local storage, and FCM push notifications.
 Currently, I’m expanding my skills in Clean Architecture, ML integration, and full-stack development.
+</p>
 ---
 
 ## Tech Stack
