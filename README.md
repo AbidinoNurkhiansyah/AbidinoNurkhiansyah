@@ -2,10 +2,11 @@ Hi everyone! 👋
 
 ## My name is Abidino Nurkhiansyah.
 
-I'm a **Mobile Development Enthusiast** focusing on Flutter, .  
-I’ve worked on various projects including mobile apps, backend services, and internal systems.  
-Currently I’m expanding my skills in **Clean Architecture**, **ML integration**, and **full-stack development**.
+I'm a Mobile Development Enthusiast focusing on Flutter.
+I’ve worked on various mobile app projects involving REST API integration, Firebase services, local storage, and FCM push notifications.
+Currently, I’m expanding my skills in Clean Architecture, ML integration, and full-stack development.
 
+I also participated in BEKUP Create 2025, where I completed an intensive 5-month learning journey through the Multi-Platform App Developer (Flutter) program.
 ---
 
 ## Tech Stack
@@ -38,10 +39,6 @@ Currently I’m expanding my skills in **Clean Architecture**, **ML integration*
     </td>
   </tr>
 </table>
-
-
-
-
 ---
 
 ## 🔍 You Can Find Me At
