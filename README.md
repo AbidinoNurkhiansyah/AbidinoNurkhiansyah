@@ -24,14 +24,24 @@ Currently I’m expanding my skills in **Clean Architecture**, **ML integration*
 ---
 
 ## Github Statistic
-<p>
-  
-### My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default)
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: flex-start;">
 
-### My GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default)
-</p>
+  <!-- Card 1 -->
+  <div style="text-align: center;">
+    <p><strong>My Programming Languages</strong></p>
+    <img height="180" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default" />
+  </div>
+
+  <!-- Card 2 -->
+  <div style="text-align: center;">
+    <p><strong>My GitHub Statistics</strong></p>
+    <img height="180" 
+         src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default" />
+  </div>
+
+</div>
+
 
 
 
