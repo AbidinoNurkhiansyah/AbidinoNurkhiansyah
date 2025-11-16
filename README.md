@@ -7,7 +7,6 @@ Hi everyone! 👋
 I’ve worked on various mobile app projects involving REST API integration, Firebase services, local storage, and FCM push notifications.
 Currently, I’m expanding my skills in Clean Architecture, ML integration, and full-stack development.
 </p>
----
 
 ## Tech Stack
 <p>
@@ -15,6 +14,7 @@ Currently, I’m expanding my skills in Clean Architecture, ML integration, and 
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
