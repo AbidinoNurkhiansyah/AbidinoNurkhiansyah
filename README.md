@@ -27,25 +27,19 @@ Currently, I’m expanding my skills in Clean Architecture, ML integration, and 
 ## Github Statistic
 <table>
   <tr>
-    <td align="center">
-      <strong>My Programming Languages</strong><br><br>
+        <td align="center">
+      <img height="180" 
+           src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=dark" />
+    </td>
+    <td>
+     <img src="https://nirzak-streak-stats.vercel.app/?user=AbidinoNurkhiansyah&theme=dark&hide_border=false"> 
+    </td>
+        <td align="center">
       <img height="180" 
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=dark" />
     </td>
-    <td>
-       <strong>Stats</strong><br><br>
-     <img src="https://nirzak-streak-stats.vercel.app/?user=AbidinoNurkhiansyah&theme=dark&hide_border=false"> 
-    </td>
-    <td align="center">
-      <strong>My GitHub Statistics</strong><br><br>
-      <img height="180" 
-           src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=default" />
-    </td>
   </tr>
 </table>
----
 
-## 🔍 You Can Find Me At
-<p>
+## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AbidinoNurkhiansyah) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abyy.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abyy.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbidinoNurkhiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abidinonurkhiansyah@gmail.com) 
-</p>
