@@ -30,7 +30,7 @@ Currently, I’m expanding my skills in Clean Architecture, ML integration, and 
     <td align="center">
       <strong>My Programming Languages</strong><br><br>
       <img height="180" 
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=default" />
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=dark" />
     </td>
     <td align="center">
       <strong>My GitHub Statistics</strong><br><br>
