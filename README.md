@@ -33,6 +33,10 @@ Hi everyone! 👋
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vimeo-3b3e51?style=for-the-badge&logo=vimeo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-FFCA28?style=for-the-badge&logo=miro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-1a1a1a?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Calendar-ffffff?style=for-the-badge&logo=googleCalendar&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-02569b?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
