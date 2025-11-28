@@ -3,7 +3,7 @@ Hi everyone! 👋
 ## My name is Abidino Nurkhiansyah.
 
 <p>
-  I'm from Indonesia, and I'm an active Informatics student at 
+  I'm from Indonesia, and I'm an active Computer Science student at 
   <a href="https://horizon.ac.id/id/" target="_blank">Horizon University Indonesia</a> 
   with a strong focus on cross-platform mobile app development using Flutter for approximately one year. 
   Possesses a solid understanding of UI/UX design principles and experience in building 
