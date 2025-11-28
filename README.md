@@ -1,6 +1,4 @@
-Hi everyone! 👋
-
-## My name is Abidino Nurkhiansyah.
+Hi everyone! 👋. <h2>My name is Abidino Nurkhiansyah.</h2>
 
 <p>
   I'm from Indonesia, and I'm an active Computer Science student at 
@@ -38,8 +36,6 @@ Hi everyone! 👋
   <img src="https://img.shields.io/badge/Google%20Calendar-ffffff?style=for-the-badge&logo=googleCalendar&logoColor=black"/>
   <img src="https://img.shields.io/badge/Canva-02569b?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
----
 
 ## Github Statistic
 <table border="0">
