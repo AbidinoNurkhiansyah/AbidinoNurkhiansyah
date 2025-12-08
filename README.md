@@ -1,5 +1,4 @@
 <img width="2496" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f9457a3f-84e1-4875-9372-3429547243d2" />
-Hi everyone! 👋. <h2>My name is Abidino Nurkhiansyah.</h2>
 
 <p>
   I'm from Indonesia, and I'm an active Computer Science student at 
@@ -37,11 +36,6 @@ Hi everyone! 👋. <h2>My name is Abidino Nurkhiansyah.</h2>
   <img src="https://img.shields.io/badge/Google%20Calendar-ffffff?style=for-the-badge&logo=googleCalendar&logoColor=black"/>
   <img src="https://img.shields.io/badge/Canva-02569b?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
-
-## Github Statistic
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbidinoNurkhiansyah&theme=dark&hide_border=false">
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AbidinoNurkhiansyah) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abyy.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abyy.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbidinoNurkhiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abidinonurkhiansyah@gmail.com) 
