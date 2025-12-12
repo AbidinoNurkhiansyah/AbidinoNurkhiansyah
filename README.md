@@ -1,8 +1,7 @@
-<img width="2496" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f9457a3f-84e1-4875-9372-3429547243d2" />
-
+## Hello, I'm Abidino Nurkhiansyah👋
 <p>
   I'm from Indonesia, and I'm an active Computer Science student at 
-  <a href="https://horizon.ac.id/id/" target="_blank">Horizon University Indonesia</a> 
+  <a href="https://horizon.ac.id/id/" target="_blank"><strong>Horizon University Indonesia</strong></a> 
   with a strong focus on cross-platform mobile app development using Flutter for approximately one year. 
   Possesses a solid understanding of UI/UX design principles and experience in building 
   responsive and user-friendly applications.
