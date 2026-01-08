@@ -2,7 +2,7 @@
 <p>
   I'm from Indonesia, and I'm an active Computer Science student at 
   <a href="https://horizon.ac.id/id/" target="_blank"><strong>Horizon University Indonesia</strong></a> 
-  with a strong focus on Software Developer Enthusiast with ±2 years of experience in mobile and web development. 
+  with a strong focus on Software Developer Enthusiast with ±1 years of experience in mobile and web development. 
   Possesses a solid understanding of UI/UX design principles and experience in building 
   responsive and user-friendly applications.
 </p>
