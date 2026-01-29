@@ -9,16 +9,7 @@
 
 ## 📊 GitHub Statistics
 
-  <table width="100%">
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbidinoNurkhiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true">
-    </td>
-    <td width="50%">
-      <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9">
-    </td>
-  </tr>
-</table>
+<img width="30%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidinoNurkhiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9">
 
 ## Tech Stack
 <p>
