@@ -1,4 +1,4 @@
-<img alt="ascii-art" src="https://github.com/user-attachments/assets/ef1cdaeb-d731-44c6-afc0-374caa1a8483" align="left" width="320px" style="margin-right: 20px; margin-bottom: 20px;"/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e6a218ae-6530-4bfc-8dbf-0ae94595d258" align="left" style="margin-right: 20px; margin-bottom: 20px;"/>
 
 ## Hello, I'm Abidino Nurkhiansyah👋
 <p>
