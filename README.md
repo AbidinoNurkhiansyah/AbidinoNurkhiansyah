@@ -1,3 +1,5 @@
+<img width="659" height="768" alt="ascii-art" src="https://github.com/user-attachments/assets/ef1cdaeb-d731-44c6-afc0-374caa1a8483" align="left" width="320px" style="margin-right: 20px; margin-bottom: 20px;"/>
+
 ## Hello, I'm Abidino Nurkhiansyah👋
 <p>
   I'm from Indonesia, and I'm an active Computer Science student at 
@@ -36,3 +38,5 @@
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/AbidinoNurkhiansyah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abyy.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbidinoNurkhiansyah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abidinonurkhiansyah@gmail.com) 
+
+<br clear="left"/>
